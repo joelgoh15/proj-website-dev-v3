@@ -1,13 +1,7 @@
-## Project Details
-A website development project.
-
-Just purely front-end-development.
-
-A project with an emphasis on RWD (Responsive Web Design).
-
-For this project the progrmmaing language that is mainly used is:
- - HTML5
- - CSS3
- - Javascript
- 
-The project can be run using Visual Studio.
+## About:
+<p>website development project that contains a section for about, product services and contact us.</p>
+<p>just purely front-end-development.</p>
+<p>technology stacks used: html5, css3, javascript, rwd, asp.net.</p>
+<p>how to use application:
+1. visual studio ide
+2. double-click project14_1.sln</p>
